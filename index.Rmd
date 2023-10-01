@@ -63,11 +63,11 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-envelope"></i> nick.strayer@gmail.com
-- <i class="fa fa-twitter"></i> NicholasStrayer
-- <i class="fa fa-github"></i> github.com/nstrayer
+- <i class="fa fa-envelope"></i> rachel.judd@gmail.com
+- <i class="fa fa-twitter"></i> RachelJudd
+- <i class="fa fa-github"></i> github.com/Rachel-Judd
 - <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
-- <i class="fa fa-phone"></i> (734) 645-0110
+- <i class="fa fa-phone"></i> (555) 111-0000
 
 
 
@@ -77,13 +77,13 @@ Language Skills {#skills}
 ```{r}
 skills <- tribble(
   ~skill,               ~level,
-  "R",                  5,
-  "Javascript (d3.js)", 4.5,
-  "Python",             4,
-  "Bash",               3.5,
-  "SQL",                3,
-  "C++",                3,
-  "AWK",                3
+  "R",                  2,
+  "Javascript (d3.js)", 0,
+  "Python",             0,
+  "Bash",               0,
+  "SQL",                0,
+  "C++",                0,
+  "AWK",                0
 )
 
 build_skill_bars(skills)
@@ -108,14 +108,14 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Nick Strayer {#title}
+Rachel Judd {#title}
 --------------------------------------------------------------------------------
 
 
 ```{r}
-intro_text <- "I have made [visualizations viewed by hundreds of thousands of people](https://www.nytimes.com/interactive/2016/08/26/us/college-student-migration.html), [sped up query times for 25 terabytes of data by an average of 4,800 times](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/), and built [packages for R](https://github.com/nstrayer/shinysense) that let you [do magic](http://nickstrayer.me/dataDayTexas/).
+intro_text <- "I hope to some day make visualizations viewed by hundreds of thousands of people and build packages for R that let you do magic."
 
-Currently searching for a data science position that allows me to build tools using visualization and machine learning to help people explore and understand their data. 
+Currently searching for a program evaluation position that allows me to demonstrate impact through qualitative and quantitative data.  
 "
 
 cat(sanitize_links(intro_text))
@@ -160,7 +160,7 @@ Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ::: aside
-I am passionate about education. I believe that no topic is too complex if the teacher is empathetic and willing to think about new methods of approaching task. 
+I am passionate about continuous learning.
 :::
 
 ```{r}
@@ -173,7 +173,7 @@ Selected Data Science Writing {data-icon=chart-line}
 
 
 ::: aside
-I regularly blog about data science and visualization on my blog [LiveFreeOrDichotomize.](https://livefreeordichotomize.com/)
+I love creating resumes. 
 :::
 
 ```{r}
