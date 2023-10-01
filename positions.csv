@@ -1,6 +1,6 @@
 section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
 education,TRUE,"Master of Science in Program Evaluation and Data Analytics, Arizona State University","Watertown, WI", 2023, 2024, "Learning how to wrangel data",NA
-education,TRUE,"B.A., Economics",University of Wisconsin,"Milwaukee, WI",2005, 2009, Thesis: Impact of Mariel Boatlift on Florida's Economy",NA,NA
+education,TRUE,"B.A., Economics",University of Wisconsin,"Milwaukee, WI",2005, 2009, "Thesis: Impact of Mariel Boatlift on Florida's Economy",NA,NA
 industry_positions,FALSE,Junior Economist - Bethesda,"Watertown, WI",2014, 2016,NA,NA,NA
 by_me_press,FALSE,"[2022 Impact Report](https://kingdomworkers.webdamdb.com/directdownload.php?ti=184873247&tok=6dQsQaUVkyOB8pxP3R06nQRR&token=$2y$10$9/g7kqstuaeCHVWyiB6HWey6dhs5n.TwKsP0ZaIj6.lyx6FGpd5L.&in=1)",Kingdom Workers,N/A,2022,2023,NA,NA
 
